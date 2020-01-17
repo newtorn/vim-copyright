@@ -13,7 +13,7 @@ Bundle "newtorn/vim-copyright"
 Plug 'newtorn/vim-copyright'
 ```
 
-## Useg
+## Usage
 
 add the config to your .vimrc to set your name / email :
 
